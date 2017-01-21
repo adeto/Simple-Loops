@@ -1,6 +1,8 @@
 ﻿using System;
 
 namespace _01.Numbers_form_1_to_100
+
+    //This solution will show you how is displayed the numbers from 1 to 100.
 {
     class Numbers_1_To_100
     {
