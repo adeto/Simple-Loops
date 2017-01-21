@@ -6,6 +6,10 @@ namespace _18_EqualPairs
     {
         static void Main()
         {
+
+// This solution will show equal pairs //
+
+
             int n = int.Parse(Console.ReadLine());
             int MaxDiff = int.MinValue;
             int sumPair = 0;
