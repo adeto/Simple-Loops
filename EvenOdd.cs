@@ -1,14 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Odd_Even_Position
 {
     class Odd_Even_Position
     {
-        static void Main(string[] args)
+        static void Main()
         {
             double OddSum = 0;
             double EvenSum = 0;
